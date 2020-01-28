@@ -1,0 +1,5 @@
+final - once set, cannot be reset
+
+static - class variable or method, no object required. Shared among all.
+
+final static - once set, shared among all the objects.
